@@ -1,2 +1,2 @@
 # 🏜 Tourne Svit
-❗ Link to page: https://yanamevh.github.io/tournesvit/
+❗ Link to page: https://yanamevh.github.io/tournesvit/index.html
